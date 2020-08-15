@@ -17,10 +17,10 @@
 
 About me...
 
-- 🔭 Currently, I am teaching information design and web UI/UX design as a university educator.
-- 🛸 He majored in computer engineering, multimedia, and media art, and has a career in IT industry as a development team leader and technical director.
+- 🔭 Currently, I am teaching information design and web UI/UX design as an university educator.
+- 🛸 I majored in computer science & engineering, multimedia, and media art, and has a career in IT industry as a development team leader and technical director.
 - 🌱 Therefore, I have been deeply interested in the IT industry for a long time and have been working on research and professional writing in this field.
-- 💬 Currently, the ‘CODE*DESIGN web app (code-design.web.app)’ community cafe for progressive web app development and UI/UX design is working hard to guide modern web app development and design methods.
-- 🌋 In addition, I am fascinated by the fact that amazing creativity can emerge when humanities and artistic sensibilities are combined with IT technology, and as a media artist, I am trying to find new inspiration by exploring a new world.
+- 💬 Currently, I am coordinating the ‘CODE*DESIGN web app (code-design.web.app)’ community cafe for progressive web app development and UI/UX design to guide modern web app development and design methods.
+- 🌋 In addition, I am fascinated by the fact that amazing creativity can emerge when humanities and artistic sensibilities are combined with IT technology, and as a media artist, I am trying to find new inspiration by exploring the new media art.
 
 Happy Coding!! 😄

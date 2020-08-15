@@ -9,7 +9,7 @@
 - 💬 현재는 프로그레시브 웹앱 개발과 UI/UX 디자인을 위한 <strong>‘CODE*DESIGN 웹앱(code-design.web.app)’</strong> 커뮤니티 카페에서 모던 웹앱 개발과 디자인 방법을 안내하는 데 힘쓰고 있습니다.
 - 🌋 또한 인문학과 예술의 감성이 IT 테크놀러지와 결합될 때 놀라운 창조력이 나올 수 있음에 매료되어 미디어아티스트로써 새로운 신세계를 탐구하며 새로운 영감을 얻고자 노력하고 있습니다.
 
-해피 코딩 되세요!! 😄
+해피 코딩과 디자인 되세요!! 😄
 
 ***
 
@@ -23,4 +23,4 @@ About me...
 - 💬 Currently, I am coordinating the ‘CODE*DESIGN web app (code-design.web.app)’ community cafe for progressive web app development and UI/UX design to guide modern web app development and design methods.
 - 🌋 In addition, I am fascinated by the fact that amazing creativity can emerge when humanities and artistic sensibilities are combined with IT technology, and as a media artist, I am trying to find new inspiration by exploring the new media art.
 
-Happy Coding!! 😄
+Happy Coding and design!! 😄

@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/codedesign-webapp/codedesign-webapp.svg)](http://hits.dwyl.com/codedesign-webapp/codedesign-webapp)
 ### 안녕하세요? 반갑습니다. 김응석이라고 합니다. 👋
 
 저는...
@@ -10,11 +11,7 @@
 
 해피 코딩 되세요!! 😄
 
-<br><br>
-
 ***
-
-<br><br>
 
 ### Hi there? This is Kim, Eungsuk. 👋
 

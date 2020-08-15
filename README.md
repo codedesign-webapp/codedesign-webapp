@@ -23,4 +23,4 @@ About me...
 - 💬 Currently, I am coordinating the ‘CODE*DESIGN web app (code-design.web.app)’ community cafe for progressive web app development and UI/UX design to guide modern web app development and design methods.
 - 🌋 In addition, I am fascinated by the fact that amazing creativity can emerge when humanities and artistic sensibilities are combined with IT technology, and as a media artist, I am trying to find new inspiration by exploring the new media art.
 
-Happy Coding and design!! 😄
+Happy Coding and Design!! 😄

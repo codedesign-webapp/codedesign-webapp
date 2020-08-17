@@ -14,7 +14,7 @@
 
 감사합니다.
 
-김응석 드림
+김응석 드림 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.design.webapp@gmail.com)](mailto:code.design.webapp@gmail.com)
 
 ***
 
@@ -29,3 +29,5 @@ About me...
 - 🌋 In addition, I am fascinated by the fact that amazing creativity can emerge when humanities and artistic sensibilities are combined with IT technology, and as a media artist, I am trying to find new inspiration by exploring the new media art. [more...](https://turing-heart.web.app/)
 
 Happy Coding and Design!! 😄
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.design.webapp@gmail.com)](mailto:code.design.webapp@gmail.com)

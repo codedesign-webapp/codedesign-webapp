@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodedesign-webapp%2Fcodedesign-webapp)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.design.webapp@gmail.com)](mailto:code.design.webapp@gmail.com)
 
 ### 안녕하세요? 반갑습니다. 👋
 
@@ -14,7 +15,7 @@
 
 감사합니다.
 
-김응석 드림 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.design.webapp@gmail.com)](mailto:code.design.webapp@gmail.com)
+김응석 드림
 
 ***
 
@@ -30,4 +31,3 @@ About me...
 
 Happy Coding and Design!! 😄
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.design.webapp@gmail.com)](mailto:code.design.webapp@gmail.com)

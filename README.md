@@ -35,6 +35,10 @@ Happy Coding and Design!! 😄
 
 ### 📚 'Do it! 프로그레시브 웹앱 만들기' 책 전체 예제 다운로드
 
+<p align="center">
+<img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-3d.png" width="100">
+</p>
+
 #### 📁 v1.1 다운로드(2쇄)
 * PWA-example v1.1 : [[다운로드](https://github.com/codedesign-webapp/pwa-about/raw/master/download/PWA-example_v1.1.zip)]
 * PWA-mission v1.1 : [[다운로드](https://github.com/codedesign-webapp/pwa-about/raw/master/download/PWA-mission_v1.1.zip)]
